@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="349.5674" y1="113.2886" x2="50.7006" y2="285.8394">
+	<stop  offset="0" style="stop-color:#BC4C00"/>
+	<stop  offset="1" style="stop-color:#EF6401"/>
+</linearGradient>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="27.112" y1="199.564" x2="373.156" y2="199.564">
+	<stop  offset="0" style="stop-color:#EF6401"/>
+	<stop  offset="1" style="stop-color:#BC4C00"/>
+</linearGradient>
+<circle fill="url(#SVGID_1_)" stroke="url(#SVGID_2_)" stroke-miterlimit="10" cx="200.134" cy="199.564" r="172.522"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="372.0393" y1="100.3144" x2="28.2287" y2="298.8136">
+	<stop  offset="0.0049" style="stop-color:#D35500"/>
+	<stop  offset="1" style="stop-color:#EF6401"/>
+</linearGradient>
+<circle fill="none" stroke="url(#SVGID_3_)" stroke-width="12" cx="200.134" cy="199.564" r="192.467"/>
+<circle fill="none" cx="200.134" cy="200.561" r="185.819"/>
+<ellipse fill="#F4F4F4" cx="141.297" cy="168.65" rx="25.928" ry="36.898"/>
+<ellipse fill="#F4F4F4" cx="260.318" cy="168.65" rx="25.928" ry="36.898"/>
+<path fill="none" stroke="#F3F3F3" stroke-width="10" d="M265.951,288.363c0,0-65.153-85.098-131.635,0"/>
+</svg>

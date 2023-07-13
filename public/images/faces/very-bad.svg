@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="319.4105" y1="131.2954" x2="19.4781" y2="304.4615">
+	<stop  offset="0" style="stop-color:#B61F35"/>
+	<stop  offset="1" style="stop-color:#EA242A"/>
+</linearGradient>
+<circle fill="url(#SVGID_1_)" cx="198.966" cy="200.834" r="173.137"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="370.5992" y1="100.7408" x2="27.3323" y2="298.9261">
+	<stop  offset="0" style="stop-color:#B61F35"/>
+	<stop  offset="1" style="stop-color:#EA242A"/>
+</linearGradient>
+<circle fill="none" stroke="url(#SVGID_2_)" stroke-width="10" cx="198.966" cy="199.833" r="193.153"/>
+<circle fill="none" cx="198.966" cy="200.834" r="186.481"/>
+<ellipse fill="#F4F4F4" cx="139.919" cy="168.809" rx="26.021" ry="37.029"/>
+<ellipse fill="#F4F4F4" cx="259.364" cy="168.809" rx="26.021" ry="37.029"/>
+<path fill="#F4F4F4" d="M133.949,275.894c0,0,16.513-34.027,53.542-36.029c0,0,51.04-10.008,76.06,36.029
+	c0,0,4.504,8.507-11.009,6.505c0,0-54.043-16.404-111.588,0.305C140.955,282.704,132.448,287.903,133.949,275.894z"/>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "nps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7"
+  },
+	"scripts": {
+		"dev": "nodemon ./index.js"
+	},
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

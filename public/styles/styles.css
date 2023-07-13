@@ -1,0 +1,61 @@
+@font-face {
+	font-family: roboto;
+	src: url('../fonts/roboto.ttf') format('truetype');
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.d-none {
+	display: none !important;
+}
+
+img {
+	height: 85px;
+}
+
+.img-client {
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+}
+
+h3 {
+	font: 1.4rem roboto, sans-serif;
+	text-align: center;
+	margin: 20px 0;
+}
+
+.faces {
+	display: flex;
+	flex-direction: row;
+	max-width: 700px;
+	margin: 0 auto;
+	justify-content: space-between;
+}
+
+@media(max-width: 700px) {
+	.faces {
+		flex-direction: column;
+	}
+}
+
+.faces > div {
+	display: flex;
+	flex-direction: column;
+	padding: 15px;
+	align-items: center;
+	cursor: pointer;
+}
+
+.faces > div span {
+	font: 1.1rem roboto, sans-serif;
+	margin-top: 7px;
+}
+
+.svg-nps {
+	
+}
