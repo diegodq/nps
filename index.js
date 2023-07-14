@@ -22,6 +22,6 @@ app.use(
 
 app.use(routes);
 
-app.listen(process.env.SERVER_PORT, _ => {
-	console.log('Server running on port ' + process.env.SERVER_PORT);
+app.listen('3008', _ => {
+	console.log('Server running on port 3008');
 });
