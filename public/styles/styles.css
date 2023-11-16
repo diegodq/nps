@@ -1,0 +1,181 @@
+@font-face {
+	font-family: roboto;
+	src: url('../fonts/roboto.ttf') format('truetype');
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.custom-alert-content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+}
+
+.svg-nps {
+	filter: drop-shadow(0 2px 4px rgba(88, 88, 88, 0.2));
+
+}
+
+.selected {
+	background-color: #f3f3f3;
+}
+
+
+.text-center {
+	text-align: center;
+}
+
+main {
+	flex-grow: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.d-none {
+	display: none !important;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.container-footer {
+	margin-top: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	align-items: center;
+	text-align: center;
+	min-height: 100%;
+}
+
+.custom-checkbox {
+	display: none;
+}
+
+.footer-text {
+
+	font-size: 15px;
+
+}
+
+.footer-link {
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+.custom-confirm-button-class {
+	background-color: #FF5733;
+	color: #FFFFFF;
+}
+
+.custom-label {
+	display: inline-block;
+	margin-right: 5px;
+	margin-left: 10px;
+	border-radius: 4px;
+	padding: 5px 10px;
+	cursor: pointer;
+}
+
+::selection {
+	background-color: #007bff;
+	color: #fff;
+}
+
+
+.custom-label:hover {
+	background-color: #f3f3f3;
+}
+
+.custom-checkbox:checked+.custom-label {
+	background-color: #2196f3;
+	color: #ffffff;
+}
+
+.logo-automatiza {
+	width: 80px;
+	height: 30px;
+}
+
+img {
+	height: 85px;
+}
+
+.img-client {
+	display: flex;
+	justify-content: center;
+	margin-top: 2rem;
+}
+
+h3 {
+	font: 1.4rem roboto, sans-serif;
+	text-align: center;
+	margin: 40px 0;
+}
+
+.faces {
+	display: flex;
+	flex-direction: row;
+	max-width: 700px;
+	margin: 0 auto;
+	justify-content: space-between;
+}
+
+@media screen and (max-width: 700px) {
+	.faces {
+		flex-direction: column;
+	}
+
+	.great {
+		order: 1;
+	}
+
+	.bom {
+		order: 2;
+	}
+
+	.indifferent {
+		order: 3;
+	}
+
+	.bad {
+		order: 4;
+	}
+
+	.very-bad {
+		order: 5;
+	}
+}
+
+.faces>div {
+	display: flex;
+	flex-direction: column;
+	padding: 15px;
+	align-items: center;
+	cursor: pointer;
+}
+
+.faces>div span {
+	font: 1.1rem roboto, sans-serif;
+	margin-top: 7px;
+}
